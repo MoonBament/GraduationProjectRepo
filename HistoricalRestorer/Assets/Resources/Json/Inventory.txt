@@ -1,0 +1,76 @@
+{
+ "info":[
+  {
+    "id": 0,
+    "name": "Falchion",
+    "icon": 0,
+    "type": 0,
+    "tips": "大型砍刀",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 1,
+    "name": "Mace",
+    "icon": 1,
+    "type": 0,
+    "tips": "流星锤",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 2,
+    "name": "Sword",
+    "icon": 2,
+    "type": 0,
+    "tips": "利剑",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 3,
+    "name": "Shield",
+    "icon": 3,
+    "type": 1,
+    "tips": "盾牌",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 4,
+    "name": "HistoryEx",
+    "icon": 4,
+    "type": 2,
+    "tips": "历史碎片",
+    "itemHeld": 1,
+    "equip": 0
+  },
+  {
+    "id": 5,
+    "name": "HPPotion",
+    "icon": 5,
+    "type": 3,
+    "tips": "恢复血量药水",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 6,
+    "name": "ATKPotion",
+    "icon": 6,
+    "type": 3,
+    "tips": "使用后，增加自身攻击力",
+    "itemHeld": 1,
+    "equip": 1
+  },
+  {
+    "id": 7,
+    "name": "SkillPotion",
+    "icon": 7,
+    "type": 3,
+    "tips": "恢复技能药水",
+    "itemHeld": 1,
+    "equip": 1
+  }
+]
+}
